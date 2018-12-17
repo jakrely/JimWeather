@@ -1,6 +1,5 @@
 import csv
 from datetime import datetime
-
 from matplotlib import pyplot as plt
 
 # 从文件中获取最高气温
